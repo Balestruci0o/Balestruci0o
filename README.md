@@ -1,64 +1,58 @@
-<!-- Profilový README -->
-<h1 align="center">Ahoj 👋, vítaj na mojom GitHub profile!</h1>
+<h1 align="center">Ahoj, som Martin Pavlik 👋</h1>
+<p align="center">
+  🧠 Študent | 💻 Nadšenec pre technológie | 🚀 Tvorca logických simulácií v Godot Engine
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Som+vývojár+%F0%9F%92%BB;Milujem+projekty+založené+na+HTML%2C+CSS+a+JavaScripte+%F0%9F%93%90;Zaujímam+sa+o+elektroniku%2C+GDScript+a+animácie+%F0%9F%8E%A8" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Milujem+kódovanie+od+detstva;Študujem+Inteligentné+Technológie;Tvorím+projekty+v+PHP,+JS,+a+Godot&center=true&width=440&height=45&color=00ffcc&vCenter=true&size=22" />
 </p>
 
 ---
 
-## 👩‍💻 Niečo o mne
+## 🧑‍🎓 Niečo o mne
 
-- 🎓 Som stredoškolák/čka (alebo napíš úroveň), čo sa rád/a učí nové technológie  
-- 🛠 Pracujem na editačnom nástroji pre **logické obvody** v **Godot Engine**
-- 💡 Venujem sa **elektronike**, napríklad senzorom a meraniu elektrického prúdu cez teplo
-- 🌍 Rád/a tvorím webové aplikácie plné **animácií**, **interaktivity** a **logiky**
+- 🎓 Študujem na **Súkromnej strednej odbornej škole**, odbor **Inteligentné technológie**
+- 🔧 Mám rád prácu s **HTML, CSS, JavaScriptom, Vue, Reactom, PHP, Pythonom**
+- 🎮 V Godote som vytvoril vlastnú simuláciu **logických obvodov** (prepínače, hradlá, žiarovky atď.)
+- 📘 Pracujem na projekte, ktorý vysvetľuje **fungovanie počítača od tranzistorov po príkazový riadok**
+- 🌱 Neustále sa učím nové veci a zdokonaľujem svoje projekty
+- 🤖 Fascinuje ma svet **automatizácie, UI, hier a simulácií**
 
 ---
 
-## 🧰 Tech stack
+## 🔧 Technológie a nástroje
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,godot,py,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,python,git,godot,vscode" />
 </p>
 
 ---
 
-## 📊 Moje GitHub štatistiky
+## 📈 GitHub štatistiky
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVOJE_MENO&show_icons=true&theme=radical&hide_title=true&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartinPavlik-dev&show_icons=true&theme=tokyonight" alt="Martin GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TVOJE_MENO&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinPavlik-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJE_MENO&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔗 Kontaktuj ma
-
-<p align="center">
-  <a href="mailto:tvoj.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tvoje-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tvojeportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinPavlik-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Zaujímavé repozitáre
+## 🌐 Spojme sa
 
-| 📁 Projekt | 🔎 Popis |
-|-----------|----------|
-| [**logicky-editor**](https://github.com/TVOJE_MENO/logicky-editor) | Editor logických obvodov vytvorený v Godote |
-| [**tepelny-merac**](https://github.com/TVOJE_MENO/tepelny-merac) | Projekt na meranie prúdu cez teplo s MAX6675 |
-| [**cestovatel**](https://github.com/TVOJE_MENO/cestovatel) | Vizualizácia ciest medzi krajinami s animáciami |
+<p align="center">
+  <a href="mailto:martin@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-> 📝 _Toto README je živé — ak sa ti páči, neboj sa ho forknúť a prispôsobiť pre seba!_
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MartinPavlik-dev&label=Profile+Views&color=0e75b6&style=flat" alt="Martin Pavlik" />
+</p>
