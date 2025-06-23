@@ -1,58 +1,71 @@
-<h1 align="center">Ahoj, som Martin Pavlik 👋</h1>
-<p align="center">
-  🧠 Študent | 💻 Nadšenec pre technológie | 🚀 Tvorca logických simulácií v Godot Engine
-</p>
+# 👨‍💻 Martin Pavlik – Full-Stack Web Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Milujem+kódovanie+od+detstva;Študujem+Inteligentné+Technológie;Tvorím+projekty+v+PHP,+JS,+a+Godot&center=true&width=440&height=45&color=00ffcc&vCenter=true&size=22" />
-</p>
+Hi! I'm Martin – a passionate web developer and a student of Intelligent Technologies based in Poprad, Slovakia.  
+Since childhood, I've been passionate about tech, programming, and discovering **how things work under the surface**.
 
 ---
 
-## 🧑‍🎓 Niečo o mne
+## 💻 About Me as a Web Developer
 
-- 🎓 Študujem na **Súkromnej strednej odbornej škole**, odbor **Inteligentné technológie**
-- 🔧 Mám rád prácu s **HTML, CSS, JavaScriptom, Vue, Reactom, PHP, Pythonom**
-- 🎮 V Godote som vytvoril vlastnú simuláciu **logických obvodov** (prepínače, hradlá, žiarovky atď.)
-- 📘 Pracujem na projekte, ktorý vysvetľuje **fungovanie počítača od tranzistorov po príkazový riadok**
-- 🌱 Neustále sa učím nové veci a zdokonaľujem svoje projekty
-- 🤖 Fascinuje ma svet **automatizácie, UI, hier a simulácií**
+- 🔥 I build websites from **HTML** to **PHP + MySQL**, including **JavaScript, Vue, and React**
+- 🧠 I love connecting frontend with backend – **full-stack web development**
+- 🎮 I also create educational projects – like a **learning platform explaining computers from transistors to the CLI** built in Godot
+- 🧰 I use Git and enjoy keeping my code **clean, organized, and maintainable**
 
 ---
 
-## 🔧 Technológie a nástroje
+### 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,python,git,godot,vscode" />
-</p>
+**Languages & Markup:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![GDScript](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+**Databases & Backend:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📈 GitHub štatistiky
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinPavlik-dev&show_icons=true&theme=tokyonight" alt="Martin GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinPavlik-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinPavlik-dev&layout=compact&theme=tokyonight" />
-</p>
+**Tools & Workflow:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌐 Spojme sa
+### 💼 Selected Projects
 
-<p align="center">
-  <a href="mailto:martin@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+🔹 **MotiMate**  
+A motivational diary app* built with PHP, MySQL, and clean HTML/CSS.
+
+🔹 **Logic Circuit Simulator**  
+An educational project created in Godot Engine to teach how logic gates work.
+
+🔹 **Web Terminal Game**  
+A browser-based Linux-style terminal with built-in commands and a mini-game in JavaScript.
+
+🔹 **"How Computers Work"**  
+An interactive learning platform explaining computers from transistors to the CLI.
 
 ---
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartinPavlik-dev&label=Profile+Views&color=0e75b6&style=flat" alt="Martin Pavlik" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balestruci0o&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" width="52.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balestruci0o&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </p>
+
+
+
+---
+
+### 📫 Get in Touch
+
+📧 Email: `martin@example.com`
+
+🌐 Website / Portfolio: [GitHub Pages](https://pages.github.com/)
+
+---
+
+> “I don’t just write code – I build experiences. Every detail matters.”
