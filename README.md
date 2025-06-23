@@ -39,13 +39,13 @@ Since childhood, I've been passionate about tech, programming, and discovering *
 🔹 **MotiMate**  
 A motivational diary app* built with PHP, MySQL, and clean HTML/CSS.
 
-🔹 **Logic Circuit Simulator**  
-An educational project created in Godot Engine to teach how logic gates work.
+🔹 Future Shape
+A web-based project exploring interactive web technologies and intelligent systems.
 
-🔹 **Web Terminal Game**  
-A browser-based Linux-style terminal with built-in commands and a mini-game in JavaScript.
+🔹 **Web Terminal**  
+A browser-based Linux-style terminal with built-in commands in JavaScript.
 
-🔹 **"How Computers Work"**  
+🔹 **"How Computers Work" (project _Project-Logic_Gates)**  
 An interactive learning platform explaining computers from transistors to the CLI.
 
 ---
