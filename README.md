@@ -1,4 +1,5 @@
-# 👨‍💻 Martin Pavlik – Full-Stack Web Developer
+># „Building digital dreams one byte at a time.“ ✨
+<br>
 
 Hi! I'm Martin – a passionate web developer and a student of Intelligent Technologies based in Poprad, Slovakia.  
 Since childhood, I've been passionate about tech, programming, and discovering **how things work under the surface**.
