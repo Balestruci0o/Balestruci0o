@@ -36,16 +36,20 @@ Since childhood, I've been passionate about tech, programming, and discovering *
 
 ### 💼 Selected Projects
 
-🔹 **MotiMate**  
+🔹 **MotiMate** 
+
 A motivational diary app* built with PHP, MySQL, and clean HTML/CSS.
 
-🔹 Future Shape
+🔹 **Future Shape**
+
 A web-based project exploring interactive web technologies and intelligent systems.
 
 🔹 **Web Terminal**  
+
 A browser-based Linux-style terminal with built-in commands in JavaScript.
 
 🔹 **"How Computers Work" (project _Project-Logic_Gates)**  
+
 An interactive learning platform explaining computers from transistors to the CLI.
 
 ---
