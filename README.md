@@ -65,12 +65,5 @@ An interactive learning platform explaining computers from transistors to the CL
 
 ---
 
-### 📫 Get in Touch
-
-📧 Email: `martin@example.com`
-
-🌐 Website / Portfolio: [GitHub Pages](https://pages.github.com/)
-
----
 
 > “I don’t just write code – I build experiences. Every detail matters.”
