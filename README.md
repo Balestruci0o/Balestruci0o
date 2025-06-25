@@ -11,7 +11,7 @@ Since childhood, I've been passionate about tech, programming, and discovering *
 - 🔥 I build websites from **HTML** to **PHP + MySQL**, including **JavaScript, and React**
 - 🧠 I love connecting frontend with backend – **full-stack web development**
 - 🎮 I also create educational projects – like a **learning platform explaining computers from transistors to the CLI** built in Godot
-- 🧰 I use Git and enjoy keeping my code **clean, organized, and maintainable**
+- 🤖 I also diving deep into AI, experimenting with algorithms to grasp how it all works.
 
 ---
 
