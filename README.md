@@ -8,7 +8,7 @@ Since childhood, I've been passionate about tech, programming, and discovering *
 
 ## 💻 About Me as a Web Developer
 
-- 🔥 I build websites from **HTML** to **PHP + MySQL**, including **JavaScript, Vue, and React**
+- 🔥 I build websites from **HTML** to **PHP + MySQL**, including **JavaScript, and React**
 - 🧠 I love connecting frontend with backend – **full-stack web development**
 - 🎮 I also create educational projects – like a **learning platform explaining computers from transistors to the CLI** built in Godot
 - 🧰 I use Git and enjoy keeping my code **clean, organized, and maintainable**
